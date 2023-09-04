@@ -2,9 +2,9 @@
   "name": "alchemyu-json-activity",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/1.simple.jsonrpc.js",
   "scripts": {
-    "start": "node index.js",
+    "start_first": "node src/1.simple.jsonrpc.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
